@@ -1,0 +1,27 @@
+ul,
+li,
+.footer_btn {
+	@apply text-gray-400;
+}
+
+ul {
+	@apply cursor-pointer;
+}
+
+.footer > ul > li {
+	@apply my-2 hover:text-white transition-all ease-in-out duration-500 cursor-pointer flex gap-[10px] items-end;
+}
+.footer {
+	@apply text-white;
+}
+
+.footer > h2 {
+	@apply text-gray-200 my-2;
+}
+.input > input {
+	@apply flex-1;
+}
+
+.btn-footer::after {
+	@apply content-[''] absolute top-4 w-[9px] h-[9px] border-r-[2px] border-b-[2px] -rotate-45 ml-[1rem] border-black hover:border-white right-4;
+}

@@ -1,0 +1,65 @@
+const restaurantCards = [
+  {
+    src: "/image/restaurant-logo/100/800/450?t=1718574170",
+    alt: "Gaucho Manchester",
+    title: "Gaucho Manchester",
+    time: "30 Mins",
+    minOrder: "$20.00"
+  },
+  {
+    src: "/image/restaurant-logo/101/800/450?t=1718574170",
+    alt: "Hawksmoor Manchester",
+    title: "Hawksmoor Manchester",
+    time: "20 Mins",
+    minOrder: "$20.00"
+  },
+  {
+    src: "/image/restaurant-logo/102/800/450?t=1718574170",
+    alt: "The Refuge",
+    title: "The Refuge",
+    time: "30 Mins",
+    minOrder: "$20.00"
+  },
+  {
+    src: "/image/restaurant-logo/103/800/450?t=1718574170",
+    alt: "Habesha Restaurant",
+    title: "Habesha Restaurant",
+    time: "20 Mins",
+    minOrder: "$20.00"
+  },
+  {
+    src: "/image/restaurant-logo/104/800/450?t=1718574170",
+    alt: "Comptoir Libanais",
+    title: "Comptoir Libanais",
+    time: "20 Mins",
+    minOrder: "$20.00"
+  },
+  {
+    src: "/image/restaurant-logo/105/800/450?t=1718574170",
+    alt: "Vincenzo Trattoria",
+    title: "Vincenzo Trattoria",
+    time: "20 Mins",
+    minOrder: "$22.00"
+  },
+  {
+    src: "/image/restaurant-logo/106/800/450?t=1718574170",
+    alt: "Don Marco",
+    title: "Don Marco",
+    time: "20 Mins",
+    minOrder: "$20.00"
+  },
+  {
+    src: "/image/restaurant-logo/120/800/450?t=1718574170",
+    alt: "Sotto Mare",
+    title: "Sotto Mare",
+    time: "40 Mins",
+    minOrder: "$28.00"
+  },
+  {
+    src: "/image/restaurant-logo/121/800/450?t=1718574170",
+    alt: "Fog Harbor Fish House",
+    title: "Fog Harbor Fish House",
+    time: "30 Mins",
+    minOrder: "$26.00"
+  }
+];

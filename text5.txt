@@ -1,0 +1,44 @@
+const restaurantData = [
+    {
+        src: "/image/restaurant-logo/1/800/450?t=1718574170",
+        alt: "The Grand Shrimp",
+        title: "The Grand Shrimp",
+        time: "1 Hour",
+        minOrder: "$20.00"
+    },
+    {
+        src: "/image/restaurant-logo/5/800/450?t=1718574170",
+        alt: "The French Laundry",
+        title: "The French Laundry",
+        time: "20 Mins",
+        minOrder: "$40.00"
+    },
+    {
+        src: "/image/restaurant-logo/11/800/450?t=1718574170",
+        alt: "Husk",
+        title: "Husk",
+        time: "1 Hour",
+        minOrder: "$20.00"
+    },
+    {
+        src: "/image/restaurant-logo/26/800/450?t=1718574170",
+        alt: "The Luxury",
+        title: "The Luxury",
+        time: "1 Hour",
+        minOrder: "$30.00"
+    },
+    {
+        src: "/image/restaurant-logo/34/800/450?t=1718574170",
+        alt: "Cafe on the Green",
+        title: "Cafe on the Green",
+        time: "1 Hour",
+        minOrder: "$20.00"
+    },
+    {
+        src: "/image/restaurant-logo/39/800/450?t=1718574170",
+        alt: "Moonshine Grill",
+        title: "Moonshine Grill",
+        time: "30 Mins",
+        minOrder: "$30.00"
+    }
+];

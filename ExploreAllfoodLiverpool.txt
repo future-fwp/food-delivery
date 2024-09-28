@@ -1,0 +1,82 @@
+[
+    {
+        "src": "/image/restaurant-logo/130/800/450?t=1718574170",
+        "alt": "The Restaurant Bar",
+        "description": "Halifax House, Fenwick Street, Liverpool, UK, L2 0NZ",
+        "title": "The Restaurant Bar",
+        "time": "20 Mins",
+        "Min Order": "$19.00"
+    },
+    {
+        "src": "/image/restaurant-logo/126/800/450?t=1718574170",
+        "alt": "San Carlo",
+        "description": "41 Castle St, Liverpool, United Kingdom, L2 9SH",
+        "title": "San Carlo",
+        "time": "20 Mins",
+        "Min Order": "$26.00"
+    },
+    {
+        "src": "/image/restaurant-logo/118/800/450?t=1718574170",
+        "alt": "Bacaro",
+        "description": "47 Castle St, Liverpool, United Kingdom, L2",
+        "title": "Bacaro",
+        "time": "20 Mins",
+        "Min Order": "$25.00"
+    },
+    {
+        "src": "/image/restaurant-logo/135/800/450?t=1718574170",
+        "alt": "The Cavern Restaurant",
+        "description": "7 Mathew Street, Liverpool, UK, L2 6RE",
+        "title": "The Cavern Restaurant",
+        "time": "20 Mins",
+        "Min Order": "$12.00"
+    },
+    {
+        "src": "/image/restaurant-logo/116/800/450?t=1718574170",
+        "alt": "Nova Scotia Liverpool",
+        "description": "25a Mann Island, Liverpool, United Kingdom, L3 1BP",
+        "title": "Nova Scotia Liverpool",
+        "time": "20 Mins",
+        "Min Order": "$18.00"
+    },
+    {
+        "src": "/image/restaurant-logo/117/800/450?t=1718574170",
+        "alt": "Côte Liverpool",
+        "description": "51 Paradise St, Liverpool, United Kingdom, L1 8JF",
+        "title": "Côte Liverpool",
+        "time": "30 Mins",
+        "Min Order": "$22.00"
+    },
+    {
+        "src": "/image/restaurant-logo/119/800/450?t=1718574170",
+        "alt": "Shiraz Palace",
+        "description": "45 Ranelagh St, Liverpool, United Kingdom, L1 1JR",
+        "title": "Shiraz Palace",
+        "time": "30 Mins",
+        "Min Order": "$26.00"
+    },
+    {
+        "src": "/image/restaurant-logo/132/800/450?t=1718574170",
+        "alt": "Mowgli Street Food",
+        "description": "69 Bold St, Liverpool, United Kingdom, L1 4EZ",
+        "title": "Mowgli Street Food",
+        "time": "30 Mins",
+        "Min Order": "$18.00"
+    },
+    {
+        "src": "/image/restaurant-logo/133/800/450?t=1718574170",
+        "alt": "Maray Bold Street",
+        "description": "91 Bold St, Liverpool, United Kingdom, L1 4HF",
+        "title": "Maray Bold Street",
+        "time": "40 Mins",
+        "Min Order": "$18.00"
+    }
+]
+
+
+https://mocki.io/v1/b6acbb87-0656-48cf-8d1d-7ff65ea16a1e
+
+
+
+
+    from now on if I give the element with the same class Name, display the result in array of object contain {src, alt, description(come from .restaurant-card__description), title (which get from h6 element), time(come from .restaurant-card__time second span) and Min Order (from restaurant-card__qty)  } 

@@ -1,0 +1,22 @@
+.tag::before {
+	@apply content-[''] absolute w-[7px] h-[7px] rounded-full bg-[#4ca146] translate-x-[3px] translate-y-[3px];
+}
+.close-btn::before {
+	@apply content-['']  absolute w-[12px] h-[2px] bg-[#333] right-0 top-1/2 -translate-x-1/2 -translate-y-1/2 rotate-45;
+}
+
+.close-btn::after {
+	@apply content-['']  absolute w-[12px] h-[2px] bg-[#333] right-0 top-1/2 -translate-x-1/2 -translate-y-1/2 -rotate-45;
+}
+
+.border-after::after {
+	@apply content-[''] absolute border-[1px] bg-[#ddd] w-full h-[1px] -z-[1] right-0 top-1/2;
+}
+
+.decrement-btn::after {
+	@apply content-["-"] text-[1em] w-[14px] flex items-center justify-center;
+}
+
+.increment-btn::after {
+	@apply content-["+"] h-full w-[22.5px] flex items-center justify-center;
+}

@@ -1,0 +1,1596 @@
+{
+  "restaurantName": "The Modern",
+  "address": "136 9th Ave, New York, NY, United States, 10011",
+  "cuisines": ["Cajun", "Japanese", "Mexican", "Spanish"],
+  "openHours": [
+    {
+      "day": "Monday",
+      "openingTime": "08:30",
+      "closingTime": "20:30"
+    },
+    {
+      "day": "Tuesday",
+      "openingTime": "08:00",
+      "closingTime": "20:00"
+    },
+    {
+      "day": "Wednesday",
+      "openingTime": "07:30",
+      "closingTime": "19:30"
+    },
+    {
+      "day": "Thursday",
+      "openingTime": "09:00",
+      "closingTime": "21:00"
+    },
+    {
+      "day": "Friday",
+      "openingTime": "09:30",
+      "closingTime": "21:30"
+    },
+    {
+      "day": "Saturday",
+      "openingTime": "10:00",
+      "closingTime": "21:00"
+    },
+    {
+      "day": "Sunday",
+      "openingTime": "10:00",
+      "closingTime": "21:30"
+    }
+  ],
+  "minOrderAmount": "$20.00",
+  "deliveryTime": "20 MINS",
+  "pickupTime": "30 MINS",
+  "preOrder": "NOT AVAILABLE",
+  "dineIn": "AVAILABLE",
+  "paymentMethods": ["Online Payment", "Cash On Delivery"],
+  "menu": {
+    "cocktails": [
+      {
+        "name": "Cosmopolitan",
+        "description": "cosmopolitan, or, informally, a cosmo, is a cocktail made with vodka, Cointreau, cranberry juice, and freshly squeezed or sweetened lime juice",
+        "price": "$6.00",
+        "image": "https://demo.yoyumm.com/image/product/721/120/120?t=-62170005208"
+      },
+      {
+        "name": "Margarita",
+        "description": "cocktail consisting of tequila, triple sec, and lime juice",
+        "price": "$5.00",
+        "image": "https://demo.yoyumm.com/image/product/722/120/120?t=-62170005208"
+      }
+    ],
+    "snacks": [
+      {
+        "name": "Crispy Bacon Chips",
+        "description": "crispy bacon chips are perfect",
+        "price": "$9.00",
+        "image": "https://demo.yoyumm.com/image/product/723/120/120?t=-62170005208"
+      },
+      {
+        "name": "Fish And Chips",
+        "description": "Fish and chips is a hot dish consisting of fried fish in batter, served with chips.",
+        "price": "$6.00",
+        "image": "https://demo.yoyumm.com/image/product/724/120/120?t=-62170005208"
+      }
+    ],
+    "soup": [
+      {
+        "name": "Chicken Tortilla",
+        "description": "chicken broth, tomato, garlic, onion, chili, and fried tortilla strips",
+        "price": "$7.05",
+        "image": "https://demo.yoyumm.com/image/product/725/120/120?t=-62170005208"
+      },
+      {
+        "name": "Minestrone",
+        "description": "Minestrone is a thick soup of Italian origin made with vegetables, often with the addition of pasta or rice, sometimes both.",
+        "price": "$5.00",
+        "image": "https://demo.yoyumm.com/image/product/726/120/120?t=-62170005208"
+      }
+    ]
+  },
+  "about": "The Modern offers a variety of cuisines including Cajun, Japanese, Mexican, and Spanish. They provide dine-in service with a minimum order of $20.00. They accept both online payment and cash on delivery.",
+  "logo": "https://demo.yoyumm.com/image/restaurant-logo/115/800/450?t=1718588713"
+}
+
+
+
+
+
+
+
+{
+  "restaurantName": "Tavern On Jane",
+  "address": "New York, NY, United States, 10014",
+  "cuisines": ["Cajun", "Italian", "Mexican", "Spanish"],
+  "openHours": [
+    {
+      "day": "Monday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    },
+    {
+      "day": "Tuesday",
+      "openingTime": "00:00",
+      "closingTime": "00:00"
+    },
+    {
+      "day": "Wednesday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    },
+    {
+      "day": "Thursday",
+      "openingTime": "00:00",
+      "closingTime": "00:00"
+    },
+    {
+      "day": "Friday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    },
+    {
+      "day": "Saturday",
+      "openingTime": "00:00",
+      "closingTime": "00:00"
+    },
+    {
+      "day": "Sunday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    }
+  ],
+  "minOrderAmount": "$30.00",
+  "deliveryTime": "30 MINS",
+  "pickupTime": "1 HOUR",
+  "preOrder": "NOT AVAILABLE",
+  "dineIn": "NOT AVAILABLE",
+  "deliveryFee": {
+    "within3km": "$10.00",
+    "perKmAfter3km": "$5.00"
+  },
+  "paymentMethods": ["Online Payment"],
+  "menu": {
+    "intermezzo": [
+      {
+        "name": "Pot Noodle",
+        "description": "They contain noodles, soya pieces, vegetables, and seasoning powder with a packet of sauce that can be added to taste.",
+        "price": "$40.00",
+        "image": "https://demo.yoyumm.com/image/product/385/120/120?t=-62170005208"
+      },
+      {
+        "name": "Kati Roll",
+        "description": "Kati kebab wrapped in a layered paratha bread",
+        "price": "$60.00",
+        "image": "https://demo.yoyumm.com/image/product/386/120/120?t=-62170005208"
+      },
+      {
+        "name": "Polenta Bramata",
+        "description": "Gluten-free variation of the traditional Italian coarse corn flour",
+        "price": "$15.00",
+        "image": "https://demo.yoyumm.com/image/product/237/120/120?t=-62170005208"
+      }
+    ],
+    "lunch": [
+      {
+        "name": "Ham And Cheese",
+        "description": "Classic sandwich filling with savory ham and creamy cheese.",
+        "price": "$50.00",
+        "image": "https://demo.yoyumm.com/image/product/381/120/120?t=-62170005208"
+      },
+      {
+        "name": "Veggie Ginger Soy Rice",
+        "description": "Soy sauce and garlic",
+        "price": "$40.00",
+        "image": "https://demo.yoyumm.com/image/product/382/120/120?t=-62170005208"
+      },
+      {
+        "name": "Deluxe Cheese Board",
+        "description": "Artisanal Italian cheese, fig & chianti compote with house-made cracker & walnuts",
+        "price": "$20.00",
+        "image": "https://demo.yoyumm.com/image/product/235/120/120?t=-62170005208"
+      },
+      {
+        "name": "Grilled & Creamed Farm Corn",
+        "description": "Fresh herbs",
+        "price": "$16.00",
+        "image": "https://demo.yoyumm.com/image/product/236/120/120?t=-62170005208"
+      }
+    ],
+    "dinner": [
+      {
+        "name": "Carrot Coconut Purée",
+        "description": "Creamy carrot puree infused with curry and coconut milk",
+        "price": "$50.00",
+        "image": "https://demo.yoyumm.com/image/product/387/120/120?t=-62170005208"
+      },
+      {
+        "name": "RISOTTO",
+        "description": "Fresh Northwest Dungeness Crab, Summer Corn, Tomatoes, Mascarpone, and Herb Salad Garnish",
+        "price": "$15.00",
+        "image": "https://demo.yoyumm.com/image/product/233/120/120?t=-62170005208"
+      },
+      {
+        "name": "Tagliata Di Manzo",
+        "description": "Tagliata di Manzo means sliced beef and is one of Italy's most famous secondo piatto",
+        "price": "$12.00",
+        "image": "https://demo.yoyumm.com/image/product/234/120/120?t=-62170005208"
+      }
+    ],
+    "dessert": [
+      {
+        "name": "Butterscotch Budino",
+        "description": "Made with Dewar’s scotch pine nut shortbread cookie",
+        "price": "$15.00",
+        "image": "https://demo.yoyumm.com/image/product/240/120/120?t=-62170005208"
+      },
+      {
+        "name": "Strawberry Cheesecake",
+        "description": "Strawberry cheesecake is a delightful combination of creamy, sweet, and tangy flavors.",
+        "price": "$70.00",
+        "image": "https://demo.yoyumm.com/image/product/388/120/120?t=-62170005208"
+      },
+      {
+        "name": "BONGO",
+        "description": "Vanilla cream-filled puffs & warm chocolate sauce",
+        "price": "$18.00",
+        "image": "https://demo.yoyumm.com/image/product/239/120/120?t=-62170005208"
+      }
+    ]
+  },
+  "about": "Italian restaurant with burlesque shows & trapeze entertainment plus a terrace with beautiful views.",
+  "logo": "https://demo.yoyumm.com/image/restaurant-logo/32/800/450?t=1718588713"
+}
+
+
+
+
+
+{
+  "restaurantName": "The Mark",
+  "address": "25 E 77th Street, New York, NY, United States, 1010",
+  "cuisines": ["Cajun", "French", "Mexican", "Chinese"],
+  "openHours": [
+    {
+      "day": "Monday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    },
+    {
+      "day": "Tuesday",
+      "openingTime": "00:00",
+      "closingTime": "00:00"
+    },
+    {
+      "day": "Wednesday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    },
+    {
+      "day": "Thursday",
+      "openingTime": "00:00",
+      "closingTime": "00:00"
+    },
+    {
+      "day": "Friday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    },
+    {
+      "day": "Saturday",
+      "openingTime": "00:00",
+      "closingTime": "00:00"
+    },
+    {
+      "day": "Sunday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    }
+  ],
+  "minOrderAmount": "$20.00",
+  "deliveryTime": "1 HOUR",
+  "pickupTime": "1 HOUR",
+  "preOrder": "NOT AVAILABLE",
+  "dineIn": "NOT AVAILABLE",
+  "paymentMethods": ["Online Payment"],
+  "menu": {
+    "milkshakes": [
+      {
+        "name": "Peppermint White Hot Chocolate",
+        "description": "Peppermint White Hot Chocolate has an intense white chocolate flavor with a touch of peppermint.",
+        "price": "$40.00",
+        "image": "https://demo.yoyumm.com/image/product/303/120/120?t=-62170005208"
+      },
+      {
+        "name": "Caramel Macchiato",
+        "description": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle",
+        "price": "$150.00",
+        "image": "https://demo.yoyumm.com/image/product/304/120/120?t=-62170005208"
+      },
+      {
+        "name": "Latte Macchiato",
+        "description": "Latte macchiato is a coffee beverage. The name means stained or marked milk, which refers to the espresso stain on the milk used.",
+        "price": "$15.00",
+        "image": "https://demo.yoyumm.com/image/product/306/120/120?t=-62170005208"
+      }
+    ],
+    "soupAndSalads": [
+      {
+        "name": "Marks House Salad",
+        "description": "The marks house salad is made with fresh greens and chopped vegetables and a simple homemade salad",
+        "price": "$35.00",
+        "image": "https://demo.yoyumm.com/image/product/300/120/120?t=-62170005208"
+      },
+      {
+        "name": "Chipotle Lime Salmon",
+        "description": "Chipotle lime salmon is smoky, spicy and delicious.",
+        "price": "$30.00",
+        "image": "https://demo.yoyumm.com/image/product/301/120/120?t=-62170005208"
+      },
+      {
+        "name": "Garlic Soup",
+        "description": "Garlic soup is a type of soup using garlic as a main ingredient.",
+        "price": "$120.00",
+        "image": "https://demo.yoyumm.com/image/product/302/120/120?t=-62170005208"
+      }
+    ],
+    "burgers": [
+      {
+        "name": "Hawaiian Punch",
+        "description": "This Hawaiian Burger recipe is an explosion of sweet, tangy spicy, cheesy, pineapple, creamy deliciousness.",
+        "price": "$24.00",
+        "image": "https://demo.yoyumm.com/image/product/297/120/120?t=-62170005208"
+      },
+      {
+        "name": "McDonald's Burger",
+        "description": "McDonald's burger is topped with a tangy pickle, chopped onions, ketchup, and mustard.",
+        "price": "$40.00",
+        "image": "https://demo.yoyumm.com/image/product/299/120/120?t=-62170005208"
+      }
+    ],
+    "kidsMenu": [
+      {
+        "name": "Nasi Lemak",
+        "description": "Nasi lemak is a dish originating in Malay cuisine that consists of fragrant rice cooked in coconut milk and pandan leaf.",
+        "price": "$50.00",
+        "image": "https://demo.yoyumm.com/image/product/295/120/120?t=-62170005208"
+      },
+      {
+        "name": "Grilled Cheese",
+        "description": "A cheese sandwich is a basic sandwich generally made with one or more varieties of cheese on any sort of bread, such as flat bread or wheat bread, that may include spreads such as butter or mayonnaise.",
+        "price": "$35.00",
+        "image": "https://demo.yoyumm.com/image/product/296/120/120?t=-62170005208"
+      }
+    ]
+  },
+  "about": "Our burgers are freshly ground from a custom blend of only the finest 100% Certified Angus Beef.",
+  "reviews": [
+    {
+      "author": "Robert Lee",
+      "rating": 4,
+      "date": "2017-07-07",
+      "comment": "We had an amazing meal. It was peaceful and relaxing with excellent staff and excellent menu options. We did not feel rushed. Everyone was friendly. We will return again soon!"
+    }
+  ],
+  "logo": "https://demo.yoyumm.com/image/restaurant-logo/38/800/450?t=1718588713"
+}
+
+
+
+
+
+
+
+{
+  "restaurantName": "George's",
+  "address": "89 Greenwich St, New York, NY, United States, 10006",
+  "cuisines": ["Cajun", "Indian", "French", "Mexican", "Spanish", "Chinese"],
+  "openHours": [
+    {
+      "day": "Monday",
+      "openingTime": "08:30",
+      "closingTime": "20:30"
+    },
+    {
+      "day": "Tuesday",
+      "openingTime": "08:30",
+      "closingTime": "20:30"
+    },
+    {
+      "day": "Wednesday",
+      "openingTime": "08:00",
+      "closingTime": "20:00"
+    },
+    {
+      "day": "Thursday",
+      "openingTime": "08:00",
+      "closingTime": "20:00"
+    },
+    {
+      "day": "Friday",
+      "openingTime": "07:30",
+      "closingTime": "19:30"
+    },
+    {
+      "day": "Saturday",
+      "openingTime": "08:30",
+      "closingTime": "20:30"
+    },
+    {
+      "day": "Sunday",
+      "openingTime": "07:00",
+      "closingTime": "22:30"
+    }
+  ],
+  "minOrderAmount": "$25.00",
+  "deliveryTime": "20 MINS",
+  "pickupTime": "30 MINS",
+  "preOrder": "NOT AVAILABLE",
+  "dineIn": "AVAILABLE",
+  "paymentMethods": ["Online Payment", "Cash On Delivery"],
+  "menu": {
+    "desserts": [
+      {
+        "name": "Creme Brulee Cheesecake",
+        "description": "The crackly burnt sugar topping provides a wonderful textural contrast to the creamy filling.",
+        "price": "$7.14",
+        "image": "https://demo.yoyumm.com/image/product/703/120/120?t=-62170005208"
+      },
+      {
+        "name": "Butterscotch Budino",
+        "description": "Butterscotch Budino is a delicious, creamy dessert that is perfect.",
+        "price": "$6.52",
+        "image": "https://demo.yoyumm.com/image/product/704/120/120?t=-62170005208"
+      }
+    ],
+    "dinner": [
+      {
+        "name": "Sacramento Chicken Marsala",
+        "description": "It features tender chicken breasts that are lightly seasoned and pan-fried to perfection.",
+        "price": "$9.00",
+        "image": "https://demo.yoyumm.com/image/product/705/120/120?t=-62170005208"
+      },
+      {
+        "name": "Fried Catfish",
+        "description": "It is often breaded and deep-fried until golden and crispy, served with tartar sauce or remoulade.",
+        "price": "$7.26",
+        "image": "https://demo.yoyumm.com/image/product/706/120/120?t=-62170005208"
+      }
+    ],
+    "sides": [
+      {
+        "name": "Blue Strip",
+        "description": "Black and blue steak, also known as Pittsburgh rare, is a cooking technique for steak that is native to the Pittsburgh area.",
+        "price": "$7.05",
+        "image": "https://demo.yoyumm.com/image/product/707/120/120?t=-62170005208"
+      },
+      {
+        "name": "Garlic Knot",
+        "description": "Soft, chewy bread knots that are baked and brushed with garlic-infused butter and sprinkled with herbs.",
+        "price": "$5.22",
+        "image": "https://demo.yoyumm.com/image/product/708/120/120?t=-62170005208"
+      }
+    ]
+  },
+  "about": "Basic staple since 1950 for breakfast (omelets, pancakes & the like) & other short-order fare.",
+  "logo": "https://demo.yoyumm.com/image/restaurant-logo/113/800/450?t=1718588713"
+}
+
+
+
+
+
+{
+  "restaurantName": "Red Rooster Harlem",
+  "address": "310 Lenox Ave, New York, NY, United States, 10027",
+  "cuisines": ["French", "Japanese", "Mexican"],
+  "openHours": [
+    {
+      "day": "Monday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    },
+    {
+      "day": "Tuesday",
+      "openingTime": "00:00",
+      "closingTime": "00:00"
+    },
+    {
+      "day": "Wednesday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    },
+    {
+      "day": "Thursday",
+      "openingTime": "00:00",
+      "closingTime": "00:00"
+    },
+    {
+      "day": "Friday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    },
+    {
+      "day": "Saturday",
+      "openingTime": "00:00",
+      "closingTime": "00:00"
+    },
+    {
+      "day": "Sunday",
+      "openingTime": "00:00",
+      "closingTime": "23:30"
+    }
+  ],
+  "minOrderAmount": "$30.00",
+  "deliveryTime": "30 MINS",
+  "pickupTime": "1 HOUR",
+  "preOrder": "AVAILABLE",
+  "dineIn": "NOT AVAILABLE",
+  "paymentMethods": ["Online Payment"],
+  "menu": {
+    "cocktail": [
+      {
+        "name": "Gin & It",
+        "description": "It's a pre-meal with vermouth-rosso and gin.",
+        "price": "$5.00",
+        "image": "https://demo.yoyumm.com/image/product/71/120/120?t=-62170005208"
+      },
+      {
+        "name": "Tequila Sunrise",
+        "description": "The tequila sunrise is a cocktail made of tequila, orange juice, and grenadine syrup.",
+        "price": "$6.00",
+        "image": "https://demo.yoyumm.com/image/product/69/120/120?t=-62170005208"
+      }
+    ],
+    "dinner": [
+      {
+        "name": "Chiffon Cake",
+        "description": "Chiffon Cake is a very light cake made with vegetable oil, eggs, sugar, flour, baking powder, and flavorings.",
+        "price": "$8.00",
+        "image": "https://demo.yoyumm.com/image/product/64/120/120?t=-62170005208"
+      },
+      {
+        "name": "Cajeta Casera",
+        "description": "Cajeta Casera is a Mexican confection of thickened syrup usually made of sweetened caramelized goat's milk.",
+        "price": "$8.00",
+        "image": "https://demo.yoyumm.com/image/product/66/120/120?t=-62170005208"
+      }
+    ],
+    "italianCuisine": [
+      {
+        "name": "Truffles",
+        "description": "The spore-producing fruiting body of a truffle is a spherical mass that forms belowground or at the soil surface.",
+        "price": "$50.00",
+        "image": "https://demo.yoyumm.com/image/product/397/120/120?t=-62170005208"
+      },
+      {
+        "name": "Balsamic Roast Chicken",
+        "description": "Chicken is a rich source of several vitamins and minerals, notably niacin and selenium.",
+        "price": "$18.00",
+        "image": "https://demo.yoyumm.com/image/product/70/120/120?t=-62170005208"
+      }
+    ],
+    "boiled": [
+      {
+        "name": "Bratwurst",
+        "description": "Brats have a bold and smoky flavor with a hint of garlic and herbs.",
+        "price": "$50.00",
+        "image": "https://demo.yoyumm.com/image/product/398/120/120?t=-62170005208"
+      },
+      {
+        "name": "Sukiyaki",
+        "description": "It consists of meat that is slowly cooked or simmered at the table, alongside vegetables and other ingredients, in a shallow iron pot in a mixture of soy sauce, sugar, and mirin.",
+        "price": "$8.00",
+        "image": "https://demo.yoyumm.com/image/product/67/120/120?t=-62170005208"
+      }
+    ]
+  },
+  "about": "Red Rooster Harlem offers a vibrant mix of French, Japanese, and Mexican cuisines in the heart of Harlem.",
+  "logo": "https://demo.yoyumm.com/image/restaurant-logo/12/800/450?t=1718588713"
+}
+
+
+
+
+{
+  "restaurantName": "New York Central",
+  "address": "At Grand Central Terminal, 109 E 42nd St, New York, United States, 10017",
+  "cuisines": ["French", "Italian", "Chinese"],
+  "openHours": [
+    {
+      "day": "Monday",
+      "openingTime": "09:00",
+      "closingTime": "21:00"
+    },
+    {
+      "day": "Tuesday",
+      "openingTime": "09:00",
+      "closingTime": "21:00"
+    },
+    {
+      "day": "Wednesday",
+      "openingTime": "09:00",
+      "closingTime": "21:00"
+    },
+    {
+      "day": "Thursday",
+      "openingTime": "09:00",
+      "closingTime": "21:00"
+    },
+    {
+      "day": "Friday",
+      "openingTime": "09:00",
+      "closingTime": "21:00"
+    },
+    {
+      "day": "Saturday",
+      "openingTime": "09:00",
+      "closingTime": "21:00"
+    },
+    {
+      "day": "Sunday",
+      "openingTime": "09:00",
+      "closingTime": "21:00"
+    }
+  ],
+  "minOrderAmount": "$15.00",
+  "deliveryTime": "30 MINS",
+  "pickupTime": "40 MINS",
+  "preOrder": "NOT AVAILABLE",
+  "dineIn": "AVAILABLE",
+  "paymentMethods": ["Online Payment"],
+  "menu": {
+    "beverage": [
+      {
+        "name": "Cold Coffees",
+        "description": "Frosty and satisfying cold coffee is a fantastic beverage treat to enjoy on a warm day.",
+        "price": "$50.00",
+        "image": "https://demo.yoyumm.com/image/product/795/120/120?t=-62170005208"
+      },
+      {
+        "name": "Hot Chocolate",
+        "description": "A rich and creamy homemade Hot Chocolate Recipe that is ready in minutes.",
+        "price": "$40.00",
+        "image": "https://demo.yoyumm.com/image/product/796/120/120?t=-62170005208"
+      }
+    ],
+    "soupAndSalads": [
+      {
+        "name": "Moussaka",
+        "description": "Moussaka is a traditional Greek eggplant casserole made with baked or pan fried eggplants (aubergines) and potatoes, a rich, tomatoey beef or lamb mince sauce and topped off with a deliciously creamy bechamel sauce.",
+        "price": "$30.00",
+        "image": "https://demo.yoyumm.com/image/product/805/120/120?t=-62170005208"
+      },
+      {
+        "name": "Grilled Chicken Caesar Salad",
+        "description": "This recipe uses a combo of Romaine lettuce, chicken, French bread, parmesan cheese, anchovies, Greek yogurt then a few more food staples like garlic, olive oil, mayonnaise.",
+        "price": "$45.00",
+        "image": "https://demo.yoyumm.com/image/product/806/120/120?t=-62170005208"
+      },
+      {
+        "name": "Marks House Salad",
+        "description": "A house salad is a basic green salad with vegetables served at many American restaurants. It usually consists of lettuce, tomato, onion, and cucumber. A few types of cheese, nuts, olives, or other vegetables may also be added.",
+        "price": "$30.00",
+        "image": "https://demo.yoyumm.com/image/product/807/120/120?t=-62170005208"
+      }
+    ],
+    "dessertsAndPatisserie": [
+      {
+        "name": "Serano",
+        "description": "The largest selection of Greek Pastries, Breads and Custom Cakes. We also have a large Greek Food Market where you will find everything from imported Greek cheeses, authentic Greek yogurt, coffee, olive oil, mountain tea, canned goods like Dolmades and even frozen calamari straight from the Mediterranean Sea! We have everything you need to complement a healthy Mediterranean diet.",
+        "price": "$50.00",
+        "image": "https://demo.yoyumm.com/image/product/800/120/120?t=-62170005208"
+      },
+      {
+        "name": "Amigdalou",
+        "description": "A Greek cake that is made with sponge layers either a classic sponge cake or a meringue base. This version uses the meringue version. I have tried numerous versions of this cake in order to bring to you the best almond cake recipe for you to enjoy and this by far is the best!",
+        "price": "$30.00",
+        "image": "https://demo.yoyumm.com/image/product/802/120/120?t=-62170005208"
+      }
+    ]
+  },
+  "about": "New York Central is located within Grand Central Terminal, offering French, Italian, and Chinese cuisines. It provides both delivery and dine-in options with a minimum order requirement of $15.00.",
+  "logo": "https://demo.yoyumm.com/image/restaurant-logo/125/800/450?t=1718588713"
+}
+
+
+
+
+
+
+
+
+
+
+
+Crown Shy
+70 Pine Street Ground Floor, New York, United States, 10005
+French
+, Italian
+, Mexican
+Open 07:00 To 20:00 (Today)
+$15.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+20 MINS	30 MINS	NOT AVAILABLE	AVAILABLE
+
+Menu
+Overview
+Milkshakes
+Soup And Salads
+Kids Menu
+Search Within The Menu...
+Milkshakes
+3 Item(s)
+ Caramel Macchiato
+The Caramel Macchiato is essentially a not-too-sweet vanilla latte topped with caramel. The “macchiato” distinction is due to the fact the espresso is layered on top of the milk, as opposed to the Starbucks latte, which does the opposite. This layering is especially noticeable in transparent vessels....Read Less
+
+$15.00
+Caramel Macchiato
+ Chocolate Milkshake
+In just five minutes and with three simple ingredients — cold milk, HERSHEY'S Syrup and vanilla or chocolate ice cream — you can make a delicious homemade HERSHEY'S Chocolate Milkshake for two. You can even choose your favorite consistency by blending until it's just right....Read Less
+
+$20.00
+Chocolate Milkshake
+ Latte Macchiato
+A latte macchiato is milk marked with an espresso. It has the same ingredients as a caffe latte but it is made and looks different. A good latte macchiato is served in a tall glass and has distinctive layers between the foam, espresso and milk with the foam on top, espresso below the foam and milk at the bottom....Read Less
+
+$20.00
+ Latte Macchiato 
+Soup And Salads
+3 Item(s)
+ Chipotle Lime Salmon
+Use an instant-read meat thermometer; the salmon should register 145°F (63°C) at its thickest part. Flakiness: When gently pressed with a fork, the fish should easily flake apart. Avoid overcooking, as it can dry out the salmon....Read Less
+
+$22.00
+ Chipotle Lime Salmon 
+ Grilled Chicken Caesar Salad
+The simplicity of the Caesar salad makes it less offensive to picky people; fewer ingredients means fewer special requests/omissions, usually just dressing on the side. The lettuce used is romaine, which is sturdy and has a fairly good refrigerator shelf life and is available year round....Read Less
+
+$10.00
+Grilled Chicken Caesar Salad 
+ Garlic Soup
+Garlic soup is a type of soup using garlic as a main ingredient. In Spanish cuisine, sopa de ajo is a traditional garlic soup made with bread and egg poached in chicken broth, and laced with garlic and sherry. ...Read Less
+
+$15.00
+Garlic Soup
+Kids Menu
+2 Item(s)
+ Grilled Cheese
+The grilled cheese is a hot cheese sandwich typically prepared by heating slices of cheese between slices of bread with a cooking fat such as butter or mayonnaise on a frying pan, griddle, or sandwich toaster, until the bread browns and the cheese melts....Read Less
+
+$8.00
+Grilled Cheese 
+ Nasi Lemak
+Nasi lemak is a dish originating in Malay cuisine that consists of fragrant rice cooked in coconut milk and pandan leaf. It is commonly found in Malaysia, where it is considered as the national dish....Read Less
+
+$20.00
+
+
+
+
+
+AG Inspired Cuisine
+Magdalen St, Niagara Falls, ON, Canada, L2G
+French
+, Italian
+, Mexican
+Open 00:00 To 23:30 & 00:00 To 00:00 (Today)
+$20.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+20 MINS	30 MINS	NOT AVAILABLE	NOT AVAILABLE
+
+Menu
+Overview
+Starters
+Meals
+Drinks
+Dinner
+Search Within The Menu...
+Starters
+2 Item(s)
+ Beef Negimaki
+Beef Negimaki can also be dubbed 'sushi for carnivores', as it consists of strips of teriyaki-marinated beef that are pulled with scallions....Read Less
+
+$120.00
+Beef Negimaki 
+ Nori Seaweed
+Nori is the Japanese name for edible seaweed species of the red algae genus Pyropia, including P. yezoensis and P. tenera.
+
+$59.00
+Nori Seaweed 
+meals
+2 Item(s)
+ Chicken Over Rice
+Rice over chicken is a healthy meal. Lean chicken is a great source of both protein and healthy fats, while white rice is an excellent source of complex carbohydrates. This combination can help fuel your body and provide lasting energy....Read Less
+
+$80.00
+Chicken Over Rice
+ Buffalo Wing
+Chicken wing section that is generally deep-fried, then coated or dipped in a sauce consisting of a vinegar-based cayenne pepper hot sauce and melted butter prior to serving...Read Less
+
+$88.00
+Buffalo Wing 
+drinks
+2 Item(s)
+ Manhattan
+Manhattan is a cocktail made with whiskey, sweet vermouth, and bitters
+
+$49.00
+Manhattan 
+ Aperol Spritz
+Aperol spritz is one of the most commonly drunk aperitifs in Venice and around Italy.
+
+$112.00
+Aperol Spritz 
+Dinner
+2 Item(s)
+ Chicken Schnitzel
+chicken schnitzel," it's a breaded and fried chicken breast topped with tomato sauce, melted cheese, and sometimes ham
+
+$49.00
+Chicken Schnitzel
+ Chicken Satay Skewer
+Grilled chicken skewers marinated in a fragrant satay sauce made with peanut butter, soy sauce, and spices
+
+$99.00
+
+
+
+
+
+
+
+George's Restaurant
+111C Queen St E, Toronto, ON, Canada, M5C 1S2
+French
+, Italian
+, Mexican
+, Spanish
+Open 07:30 To 21:30 (Today)
+$5.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+30 MINS	40 MINS	NOT AVAILABLE	AVAILABLE
+
+Menu
+Overview
+Soups
+Flat Noodles
+Fried Rice
+Search Within The Menu...
+SOUPS
+2 Item(s)
+ Sweet Corn
+Sweet corn, also called sweetcorn, sugar corn and pole corn, is a variety of corn grown for human consumption with a high sugar content. Sweet corn is the result of a naturally occurring recessive mutation in the genes which control conversion of sugar to starch inside the endosperm of the corn kernel....Read Less
+
+$10.00
+Sweet Corn
+ Talumein Soup
+Chicken Talumein soup is a popular Chinese soup recipe that is packed with a whole lot of healthy ingredients. The chicken Talumein soup recipe is made with eggs, corn, chicken, and noodles. It’s a soup with a balanced flavour and is perfect for chilly winter nights or days when you’re looking for a light meal. ...Read Less
+
+$12.00
+Talumein Soup
+Flat Noodles
+2 Item(s)
+ Chilli Garlic Noodles
+All you need to prepare this mouth-watering delight are fresh noodles, onion, carrot, spring onion, chilli garlic paste and crushed garlic along with red chillies. While cooking for kids, you can balance its spiciness by adding some ketchup....Read Less
+
+$10.00
+Chilli Garlic Noodles
+ Flat Noodles Chowmein
+Thin noodles, also known as rice vermicelli, are also used in stir-fry and soup, as well as in salads and as a spring roll filling. Before cooking, all types of rice noodles need to be soaked for around 20 minutes in warm water....Read Less
+
+$15.00
+Flat Noodles Chowmein
+Fried Rice
+2 Item(s)
+ Chilli Garlic Fried Rice
+To give your dish that signature fried rice taste, you'll need to drizzle in sesame oil and soy sauce, but feel free to use as much or as little as you wish. You can even mix in things like garlic powder, ginger root, or Sriracha sauce and chili pepper for a bit of a kick....Read Less
+
+$15.00
+Chilli Garlic Fried Rice
+ Fried Rice
+Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish....Read Less
+
+$15.00
+
+
+
+
+
+The Blake House
+449 Jarvis St, Toronto, ON, Canada, M4Y 2G8
+French
+, Japanese
+, Mexican
+Open 10:00 To 23:00 (Today)
+$5.50
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+30 MINS	50 MINS	NOT AVAILABLE	AVAILABLE
+
+Menu
+Overview
+Bread
+Indo-chinese
+Beverage
+Meals
+Search Within The Menu...
+BREAD
+2 Item(s)
+ Sourdough Bread
+It's richer in nutrients, less likely to spike your blood sugar, contains lower amounts of gluten, and is generally easier to digest than bread made with baker's yeast. Sourdough bread is one of my favorite types of bread. Not only do I find it tastier than conventional bread, but it's also arguably more nutritious....Read Less
+
+$10.00
+Sourdough Bread
+ Cuban Bread
+Cuban bread is a fairly simple white bread, similar to French bread and Italian bread, but has a slightly different baking method and ingredient list; it is usually made in long, baguette-like loaves....Read Less
+
+$8.00
+Cuban Bread
+Indo-chinese
+2 Item(s)
+ Mushroom Chilli
+How many calories are in this Mushroom Chilli? There are 164 calories per portion in this Mushroom Chilli, which means it falls into our Everyday Light category. To cut down the amount of calories even more, you can simply halve the portion size and serve with a healthy accompaniment!...Read Less
+
+$10.00
+Mushroom Chilli
+ Gobi Manchurian
+Manchurian is a class of Indian Chinese dish made by roughly chopping and deep-frying ingredients such as chicken, cauliflower, prawns, fish, mutton, and paneer, and then sautéeing them in a sauce flavored with soy sauce....Read Less
+
+$10.00
+Gobi Manchurian
+Beverage
+2 Item(s)
+ Orangeade
+Combine simple syrup, 6 cups water, orange juice, and lemon juice in a large pitcher; refrigerate until cold.
+
+$12.00
+Orangeade
+ Beer
+A standard beer, whether it be a lager or an ale, has between 4% to 6% ABV, although some beers have higher or lower concentrations of alcohol. For example, “light beers” only have between 2% to 4% ABV while “malt liquors” have between 6% to 8%....Read Less
+
+$15.00
+Beer
+Meals
+2 Item(s)
+ Crispy Fried Chicken
+Crispy fried chicken is a standard dish in the Cantonese cuisine of southern China and Hong Kong. The chicken is fried in such a way that the skin is extremely crunchy, but the white meat is relatively soft....Read Less
+
+$11.00
+Crispy Fried Chicken
+ Mushroom And Potatoes Baked Eggs
+Place sliced potatoes in dish. Mix egg, milk and cheese together and pour over potatoes. Sprinkle with nutmeg. Bake at 180C for 1¼ hours or until tender....Read Less
+
+$11.00
+
+
+
+
+
+
+Adega Restaurante
+33 Elm St, Toronto, ON, Canada, M5G 1H1
+French
+, Italian
+, Japanese
+, Mexican
+Open 07:00 To 20:00 (Today)
+$20.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+30 MINS	40 MINS	NOT AVAILABLE	AVAILABLE
+
+Menu
+Overview
+Appetizers
+Salatalar
+Mexican Cuisine
+Search Within The Menu...
+Appetizers
+2 Item(s)
+ Giant Pretzel
+Pretzels are a type of bread typically made from wheat or rye flour and a few other ingredients, such as yeast, sugar, salt, water, and butter.
+
+$10.00
+Giant Pretzel
+ Langos Bread
+The dough for lángos is made of water or milk, flour, yeast, and salt. The ingredients are worked together either by hand or a kneading machine. As the yeast starts to metabolize the carbohydrates in the flour, carbon dioxide is released which causes the dough to rise, creating the air bubbles in the lángos....Read Less
+
+$13.00
+Langos Bread
+SALATALAR
+2 Item(s)
+ Cobb
+The Cobb salad is an American garden salad typically made with chopped salad greens, tomato, bacon, chicken breast, hard-boiled eggs, avocado, chives, blue cheese and red wine vinaigrette. The ingredients are laid out on a plate in neat rows. It is served as a main course....Read Less
+
+$13.00
+Cobb
+ Caesar
+A Caesar salad is a green salad of romaine lettuce and croutons dressed with lemon juice, olive oil, egg, Worcestershire sauce, anchovies, garlic, Dijon mustard, Parmesan cheese, and black pepper. In its original form, this salad was prepared and served tableside. ...Read Less
+
+$12.00
+Caesar
+Mexican Cuisine
+2 Item(s)
+ Beef Tacos
+Flank steak is one of the most well-known kinds for anything that requires thin steaks. This thin cut works well for slicing, as required for tacos and fajitas. It's also relatively affordable compared to top-of-the-line steaks like ribeye and New York strip....Read Less
+
+$15.00
+Beef Tacos
+ Chicken Enchiladas
+Chicken Enchiladas- This Easy Chicken Enchilada Recipe is an all-time favorite dinner! Tortillas are filled with shredded chicken, enchilada sauce, and cheese and then smothered with extra enchilada sauce and cheese and baked until bubbly. It's always a crowd pleaser and the enchiladas freeze well too!...Read Less
+
+$12.00
+
+
+
+
+
+The Rec Room
+Bremner Blvd, Toronto, ON, Canada, M5J0A7
+Chinese
+, French
+, Italian
+, Mexican
+Open 00:00 To 23:30 & 00:00 To 00:00 (Today)
+$20.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+1 HOUR	1 HOUR	NOT AVAILABLE	NOT AVAILABLE
+
+Menu
+Overview
+Appetizers
+Beverage
+Coffee
+Meals
+Pasta
+Search Within The Menu...
+Appetizers
+2 Item(s)
+ Poutine
+Poutine is a dish of french fries and cheese curds topped with a brown gravy
+
+$8.00
+Poutine
+ Butter Tart
+A sweet pastry filled with a gooey butter and sugar filling
+
+$4.00
+Butter Tart
+Beverage
+2 Item(s)
+ Steam Whistle Pilsner
+Pouring a medium gold with a fine head, the nose is fragrant with fresh hop aromas; the medium-weight palate offers average carbonation with light grainy malt and floral character finishing with a refreshing bitterness....Read Less
+
+$6.00
+Steam Whistle Pilsner
+ Craft Brewery
+Craft beer is a beer that has been made by craft breweries
+
+$12.00
+Craft brewery
+Coffee
+2 Item(s)
+ Macchiato
+The macchiato is an espresso coffee drink, topped with a small amount of foamed and steamed milk to allow the taste of the espresso to still shine through....Read Less
+
+$4.00
+Macchiato
+ Cold Brew Coffee
+Cold brewed coffee can be served iced or piping hot, dealer's choice.
+
+$5.00
+Cold Brew Coffee
+Meals
+2 Item(s)
+ Korean Fried Chicken
+Korean fried chicken, usually called chicken in Korea, refers to a variety of fried chicken dishes created in South Korea, including the basic hurried-chicken and spicy yangnyeom chicken....Read Less
+
+$7.00
+Korean fried chicken
+ Shawarma
+Shawarma is a popular Middle Eastern dish that originated in the Ottoman Empire, consisting of meat cut into thin slices, stacked in an inverted cone, and roasted on a slowly turning vertical rotisserie or spit...Read Less
+
+$2.50
+Shawarma
+Pasta
+2 Item(s)
+ Carbonara
+Classic Roman dish made with spaghetti, pancetta or bacon, eggs, Parmesan cheese, and black pepper.
+
+$4.00
+Carbonara
+ Spaghetti Bolognese
+spaghetti tossed in a sauce made from tomatoes, minced beef, garlic, wine, herbs, and spices.
+
+$10.00
+
+
+
+
+
+Constantine Toronto
+15 Charles St E, Toronto, ON, Canada, M4Y 1S1
+French
+, Japanese
+, Mexican
+, Spanish
+Open 07:30 To 21:00 (Today)
+$15.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+30 MINS	50 MINS	NOT AVAILABLE	AVAILABLE
+
+Menu
+Overview
+Mexican Cuisine
+Appetizers
+Steaks
+Search Within The Menu...
+Mexican Cuisine
+2 Item(s)
+ Chicken Enchiladas
+Chicken Enchiladas- This Easy Chicken Enchilada Recipe is an all-time favorite dinner! Tortillas are filled with shredded chicken, enchilada sauce, and cheese and then smothered with extra enchilada sauce and cheese and baked until bubbly. It's always a crowd pleaser and the enchiladas freeze well too!...Read Less
+
+$15.00
+Chicken Enchiladas
+ Beef Tacos
+Flank steak is one of the most well-known kinds for anything that requires thin steaks. This thin cut works well for slicing, as required for tacos and fajitas. It's also relatively affordable compared to top-of-the-line steaks like ribeye and New York strip....Read Less
+
+$10.00
+Beef Tacos
+Appetizers
+2 Item(s)
+ Giant Pretzel
+Some say they were originally called “bracellae,” the Latin term for “little arms,” from which Germans later derived the word “bretzel.” According to others, the earliest pretzels were dubbed “pretiolas,” meaning “little rewards,” and handed out by the monks when their young pupils recited their prayers correctly....Read Less
+
+$7.00
+Giant Pretzel
+ Langos Bread
+The dough for lángos is made of water or milk, flour, yeast, and salt. The ingredients are worked together either by hand or a kneading machine. As the yeast starts to metabolize the carbohydrates in the flour, carbon dioxide is released which causes the dough to rise, creating the air bubbles in the lángos....Read Less
+
+$7.00
+Langos Bread
+Steaks
+2 Item(s)
+ Grilled Onions
+These Grilled Onions are a sweet and tasty treat that come off the grill with a beautiful caramelization. They're awesome on top of burgers or steaks or chopped up in a variety of recipes. In fact, these onions are so sweet, you can eat them as-is for a unique and tasty side!...Read Less
+
+$11.00
+Grilled Onions
+ Gorgonzola Crust
+What accompaniments should I serve with gorgonzola cheese? Blue cheese, particularly gorgonzola, pairs well with honey and sweet jams. Pears and tart green apples, like a Granny Smith, add brightness and a little palate cleanse in between bites. For crunch, try walnuts, pecans, or Marcona almonds....Read Less
+
+$8.00
+
+
+
+
+
+
+
+
+Byblos Downtown
+11 Duncan St, Toronto, ON, Canada, M5V 3M2
+French
+, Italian
+, Japanese
+, Chinese
+Open 09:00 To 21:30 (Today)
+$15.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+30 MINS	40 MINS	NOT AVAILABLE	AVAILABLE
+
+Menu
+Overview
+Snacks
+Pizzas
+Desserts
+Search Within The Menu...
+Snacks
+2 Item(s)
+ Wonton Soup
+Wonton soup is a simple, light, Chinese classic with pork-filled dumplings in seasoned chicken broth. Whether in soup or fried, wontons always add delicious, hearty flavor to any dish!...Read Less
+
+$12.50
+Wonton Soup
+ Chestnut Bisque
+This soup is born out of a restaurant disappointment. It was a fancy restaurant, too, one of those places in the US where they charge over $10 for a bowl of what is basically a potage (blended vegetable soup). There was something called a “foie gras” dumpling on top, which made the dish sound like chef had come up with a late autumn masterpiece worthy of foie gras....Read Less
+
+$15.00
+Chestnut Bisque
+PIZZAS
+2 Item(s)
+ Neapolitan Pizza
+Neapolitan pizza, also known as Naples-style pizza, is a style of pizza made with tomatoes and mozzarella cheese. The tomatoes must be either San Marzano tomatoes or Pomodorino del Piennolo del Vesuvio, which grow on the volcanic plains to the south of Mount Vesuvius. ...Read Less
+
+$25.00
+Neapolitan Pizza
+ Detroit Pizza
+Detroit-style pizza is a rectangular pan pizza with a thick, crisp, chewy crust. It is traditionally topped to the edges with mozzarella and/or Wisconsin brick cheese, which caramelizes against the high-sided heavyweight rectangular pan....Read Less
+
+$40.00
+Detroit Pizza
+Desserts
+2 Item(s)
+ Grandma Barb's
+Many food historians believe carrot cake originated from such carrot puddings eaten by Europeans in the Middle Ages, when sugar and sweeteners were expensive and many people used carrots as a substitute for sugar....Read Less
+
+$12.50
+Grandma Barb's
+ Apple Strudel
+Apple strudel is a traditional Viennese strudel, a popular pastry in Austria, Bavaria, the Czech Republic, Northern Italy, Slovenia, Croatia, and other countries in Europe that once belonged to the Austro-Hungarian Empire....Read Less
+
+$10.00
+
+
+
+
+Richmond Station
+Richmond St W, Toronto, ON, Canada, M5V0N3
+French
+, Italian
+, Mexican
+, Spanish
+Open 00:00 To 23:30 & 00:00 To 00:00 (Today)
+$25.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+50 MINS	1 HOUR	AVAILABLE	NOT AVAILABLE
+
+Menu
+Overview
+Bread
+Soup
+Snacks
+Mexican Main Course
+Search Within The Menu...
+Bread
+2 Item(s)
+ Baguette
+Bread is a staple food prepared from a dough of flour and water, usually by baking.
+
+$80.00
+Baguette 
+ Marble Rye Bread
+Marble rye bread is a type of bread made of rye dough and sourdough swirled together.
+
+$77.00
+Marble Rye Bread 
+Soup
+2 Item(s)
+ Wonton Soup
+Wonton soup is made with chicken stock and the wontons are made with a pork filling
+
+$72.00
+Wonton Soup 
+ Chestnut Bisque
+Bisque
+
+$69.00
+Chestnut Bisque
+Snacks
+2 Item(s)
+ Crackers
+Crackers
+
+$88.00
+Crackers
+ Savory Snacks
+Foods like potato chips, tacos, savory biscuits
+
+$69.00
+Savory Snacks 
+Mexican Main Course
+2 Item(s)
+ Garlic Beef Enchiladas
+The garlic adds a rich and robust flavor that complements the savory beef. The enchiladas are then topped with a tangy tomato sauce and a generous amount of melted cheese, which melts into gooey deliciousness when baked. Each bite is a delightful combination of savory beef, garlic-infused flavors, and cheesy goodness, making Garlic Beef Enchiladas a satisfying and comforting meal....Read Less
+
+$77.00
+Garlic Beef Enchiladas 
+ Steak Tortillas
+Steak Tortillas are a delicious and savory dish made with thinly sliced, seasoned steak wrapped in warm tortillas. The steak is typically marinated with flavorful spices, such as garlic, cumin, and paprika, and then grilled or pan-seared to perfection. ...Read Less
+
+
+
+
+
+
+
+Edulis Restaurant
+Niagara St, Toronto, ON, Canada, M5V0N3
+Chinese
+, French
+, Italian
+, Japanese
+, Spanish
+Open 00:00 To 23:30 & 00:00 To 00:00 (Today)
+$30.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+1 HOUR	30 MINS	NOT AVAILABLE	NOT AVAILABLE
+
+Menu
+Overview
+Group Dining
+Dinner
+Chef's Special
+Dessert
+Search Within The Menu...
+Group dining
+2 Item(s)
+ Seafood Boil
+seafood boil contains fresh shrimp, lobster, clams, crab, potatoes, corn, and sausage, all boiled in a flavorful broth.
+
+$15.00
+Seafood Boil
+ BBQ Platter
+The barbecue platter can feature a variety of smoked and grilled meats such as ribs, pulled pork, brisket, or chicken, often accompanied by sides like coleslaw, baked beans, cornbread, and macaroni and cheese....Read Less
+
+$16.00
+BBQ Platter
+dinner
+2 Item(s)
+ Stone Crab Claws
+seasonal delicacy in Florida, stone crab claws are harvested from October to May and are typically served chilled with mustard dipping sauce
+
+$12.00
+Stone Crab Claws
+ Floribbean Cuisine
+This fusion cuisine combines elements of Florida and Caribbean flavors, often incorporating tropical fruits, spices, and seafood in dishes like jerk chicken, plantain-crusted fish, or mango salsa....Read Less
+
+$12.00
+Floribbean cuisine
+chef's special
+2 Item(s)
+ Cuban Mojo Pork
+The essential components for making Cuban mojo are garlic, sour orange juice, oregano, and salt. Oil is usually added, as is onion and black pepper
+
+$10.00
+Cuban Mojo Pork
+ Citrus-Glazed Chicken
+chefs special might include citrus-glazed chicken, where the chicken is marinated or basted with a tangy citrus sauce
+
+$10.00
+Citrus-Glazed Chicken
+dessert
+2 Item(s)
+ Goan Coconut Cake
+Traditionally it has seven layers. The ingredients include plain flour, sugar, ghee, egg yolk, and coconut milk.
+
+$5.00
+Goan coconut cake
+ Sandesh
+Sandesh is a Bengali dessert created with milk and sugar.
+
+$10.00
+Sandesh
+
+
+
+
+
+Gramercy Tavern
+42 East 20th Street, New York, NY, USA, 10003
+Italian
+, Japanese
+Open 00:00 To 23:30 & 00:00 To 00:00 (Today)
+$30.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+1 HOUR	1 HOUR	NOT AVAILABLE	NOT AVAILABLE
+
+Menu
+Overview
+Starters
+Meals
+Drinks
+Search Within The Menu...
+Starters
+3 Item(s)
+ Beef Negimaki
+Beef Negimaki can also be dubbed 'sushi for carnivores', as it consists of strips of teriyaki-marinated beef that are pulled with scallions....Read Less
+
+$60.00
+Beef Negimaki
+ Waldorf
+Waldorf salad is usually served cold as an appetizer, on a bed of lettuce, while ingredients such as chicken, raisins, or grapes are sometimes added in the modern versions of this elegant dish. ...Read Less
+
+$75.00
+Waldorf 
+ Nori Seaweed
+Nori is the Japanese name for edible seaweed species of the red algae genus Pyropia, including P. yezoensis and P. tenera.
+
+$12.00
+Nori seaweed
+meals
+4 Item(s)
+ Kushina
+Vegan Green beans, tomato, garlic dish served with gluten-free injera
+
+$12.00
+Kushina
+ Focaccia Bread
+Fresh dough is topped with caramelized onions, olives, tomato slices, basil leaves, grated parmesan cheese and baked delicious
+
+$15.00
+Focaccia bread
+ Chicken Over Rice
+Rice over chicken is a healthy meal. Lean chicken is a great source of both protein and healthy fats, while white rice is an excellent source of complex carbohydrates. This combination can help fuel your body and provide lasting energy....Read Less
+
+$10.00
+ Chicken Over Rice
+ Buffalo Wing
+Chicken wing section that is generally deep-fried, then coated or dipped in a sauce consisting of a vinegar-based cayenne pepper hot sauce and melted butter prior to serving...Read Less
+
+$6.00
+Buffalo wing
+drinks
+3 Item(s)
+ Manhattan
+Manhattan is a cocktail made with whiskey, sweet vermouth, and bitters
+
+$60.00
+Manhattan
+ Cosmopolitan
+cosmopolitan, or, informally, a cosmo, is a cocktail made with vodka, Cointreau, cranberry juice, and freshly squeezed or sweetened lime juice
+
+$90.00
+Cosmopolitan
+ Aperol Spritz
+Aperol spritz is one of the most commonly drunk aperitifs in Venice and around Italy.
+
+$5.00
+
+
+
+
+
+
+
+
+
+Michael's New York
+24 W 55th St, New York, United States, 10019
+Japanese
+, Mexican
+, Spanish
+Open 08:00 To 20:30 (Today)
+$10.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+30 MINS	40 MINS	NOT AVAILABLE	AVAILABLE
+
+Menu
+Overview
+Chicken
+Pastas
+Beverages
+Search Within The Menu...
+CHICKEN
+3 Item(s)
+ Char-grilled Chicken
+Charbroiling is usually done on a grill for that smoky, slightly burnt flavor, but it can also be done in an oven. One of the keys is to cook the chicken first and then add sauce or glaze during the last 10-15 minutes of cooking, increasing the heat as desired....Read Less
+
+$8.00
+Char-grilled Chicken 
+ Buffalo Wing
+A Buffalo wing in American cuisine is an unbreaded chicken wing section that is generally deep-fried, then coated or dipped in a sauce consisting of a vinegar-based cayenne pepper hot sauce and melted butter prior to serving....Read Less
+
+$10.00
+ Buffalo Wing
+ Chicken Kiev
+Chicken Kiev, also known as chicken Kyiv, is a dish made of chicken fillet pounded and rolled around cold butter, then coated with egg and bread crumbs, and either fried or baked. Since fillets are often referred to as suprêmes in professional cookery, the dish is also called "suprême de volaille à la Kiev"....Read Less
+
+$8.00
+Chicken Kiev 
+Pastas
+2 Item(s)
+ Spaghetti Bolognese
+It consists of spaghetti served with a sauce made from tomatoes, minced beef, garlic, wine and herbs; sometimes minced beef can be replaced by other minced meats. In this sense the sauce is actually more similar to Neapolitan ragù from the south of Italy than the northern Bolognese version of ragù....Read Less
+
+$5.00
+Spaghetti Bolognese 
+ Carbonara
+Carbonara is made with guanciale (cured pork), eggs, Pecorino Romano cheese, spaghetti pasta, and lots of black pepper. Italians don't add extra ingredients like cream, milk, garlic, or onions. Try this recipe if you want to make an authentic, creamy carbonara that comes straight from Italy, where I live....Read Less
+
+$8.00
+Carbonara 
+Beverages
+3 Item(s)
+ Steam Whistle Pilsner
+Canada's premium pilsner is the award-winning beer from Steam Whistle. With over 20 years of brewing, this quality product proudly stands as a top Canadian premium pilsner!...Read Less
+
+$10.00
+Steam Whistle Pilsner 
+ Margarita
+A margarita is a cocktail consisting of tequila, triple sec, and lime juice. Some margarita recipes include simple syrup as well and are often served with salt on the rim of the glass. Margaritas can be served either shaken with ice, without ice, or blended with ice....Read Less
+
+$10.00
+Margarita 
+ Cosmopolitan
+A cosmopolitan, or, informally, a cosmo, is a cocktail made with vodka, Cointreau, cranberry juice, and freshly squeezed or sweetened lime juice. The cosmopolitan is a relative of cranberry coolers like the Cape Codder. ...Read Less
+
+$7.00
+ Cosmopolitan
+Your Cart
+
+Add items in your basket
+
+
+
+
+
+
+DK Restaurant
+207 W 36th St., New York, United States, 10001
+Mexican
+, Spanish
+, Chinese
+Open 09:00 To 22:00 (Today)
+$15.00
+Min. Order
+Delivery	Pick Up	Pre-orders	Dine-in
+30 MINS	40 MINS	NOT AVAILABLE	AVAILABLE
+
+Menu
+Overview
+Beverage
+Dinner
+Dessert
+Search Within The Menu...
+Beverage
+3 Item(s)
+ Ginger Beer
+Ginger beer's spicy-sweet flavor profile makes it an excellent mixer and it's a key ingredient in classic cocktails. Because it contains no alcohol, ginger beer is also a go-to ingredient for spirit-free drinks....Read Less
+
+$10.00
+Ginger beer
+ Belvedere Vodka
+Belvedere Vodka is well known for its decorated reputation. Since it was first distilled in Poland in 1993, the vodka has been representative of the country's vodka standards, keeping its recipe additive-free and made only from ingredients of the land....Read Less
+
+$12.00
+Belvedere Vodka
+ BLOOD ORANGE FIZZ
+The vibrant color of blood oranges makes this blood orange fizz a beautiful drink and absolutely delicious and special.
+
+$10.00
+BLOOD ORANGE FIZZ
+Dinner
+3 Item(s)
+ Seafood Chateau
+At the foot of the castle with a superb view of the entrance to the port and the Gourmalon corniche, you will enjoy tasting seafood and fish from the daily auction selected by the chef and his team. If you want to have a drink, the Château is THE emblematic point of view of Pornic. ...Read Less
+
+$15.00
+Seafood Chateau
+ Yellow Fin Tuna Tartar
+Tuna Tartare is a dish that's made from raw, sushi-grade tuna, diced small and combined cold with lemon juice or other dressing, aromatics, good quality olive oil and, often, avocado. It's served as a cold appetizer to spoon onto crackers, thinly sliced cucumber or other accompaniments....Read Less
+
+$10.00
+Yellow Fin Tuna tartar
+ Faroe Island Salmon
+Faroe Island salmon is known for its high quality and delicious taste. The fish are raised in the cold, clear waters of the North Atlantic, which gives them a clean, fresh flavor....Read Less
+
+$12.00
+Faroe Island Salmon
+Dessert
+3 Item(s)
+ Classic Napoleon Pastry
+Slice the pastry crosswise into eight pieces, each about 1 1/4" wide. Serve chilled, or warmed just slightly at room temperature. Storage information: Napoleons are best served the day they're assembled. While still delicious after one or two days in the refrigerator, the pastry will lose its crispiness....Read Less
+
+$10.00
+Classic Napoleon Pastry
+ Key Lime Tart
+The dish is named after the small Key limes, which are more aromatic than the common Persian limes, and which have yellow juice. The filling in a Key lime pie is typically yellow because of the egg yolks....Read Less
+
+$10.00
+Key Lime tart
+ Chocolate Souffle
+They are very light and airy with a subtle egg flavour that enhances the ingredients that you add - they can be sweet or savoury. In the case of the two recipes we discuss in this blog post, both of our soufflés were cheese-based....Read Less
+
+$8.00

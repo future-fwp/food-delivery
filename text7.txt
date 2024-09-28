@@ -1,0 +1,65 @@
+[
+    {
+        "src": "/image/restaurant-logo/12/800/450?t=1718574170",
+        "alt": "Red Rooster Harlem",
+        "title": "Red Rooster Harlem",
+        "time": "30 Mins",
+        "minOrder": "Min Order $30.00"
+    },
+    {
+        "src": "/image/restaurant-logo/22/800/450?t=1718574170",
+        "alt": "Gramercy Tavern",
+        "title": "Gramercy Tavern",
+        "time": "1 Hour",
+        "minOrder": "Min Order $30.00"
+    },
+    {
+        "src": "/image/restaurant-logo/32/800/450?t=1718574170",
+        "alt": "Tavern On Jane",
+        "title": "Tavern On Jane",
+        "time": "30 Mins",
+        "minOrder": "Min Order $30.00"
+    },
+    {
+        "src": "/image/restaurant-logo/38/800/450?t=1718574170",
+        "alt": "The Mark",
+        "title": "The Mark",
+        "time": "1 Hour",
+        "minOrder": "Min Order $20.00"
+    },
+    {
+        "src": "/image/restaurant-logo/113/800/450?t=1718574170",
+        "alt": "George's",
+        "title": "George's",
+        "time": "20 Mins",
+        "minOrder": "Min Order $25.00"
+    },
+    {
+        "src": "/image/restaurant-logo/115/800/450?t=1718574170",
+        "alt": "The Modern",
+        "title": "The Modern",
+        "time": "20 Mins",
+        "minOrder": "Min Order $20.00"
+    },
+    {
+        "src": "/image/restaurant-logo/125/800/450?t=1718574170",
+        "alt": "New York Central",
+        "title": "New York Central",
+        "time": "30 Mins",
+        "minOrder": "Min Order $15.00"
+    },
+    {
+        "src": "/image/restaurant-logo/127/800/450?t=1718574170",
+        "alt": "DK Restaurant",
+        "title": "DK Restaurant",
+        "time": "30 Mins",
+        "minOrder": "Min Order $15.00"
+    },
+    {
+        "src": "/image/restaurant-logo/128/800/450?t=1718574170",
+        "alt": "Crown Shy",
+        "title": "Crown Shy",
+        "time": "20 Mins",
+        "minOrder": "Min Order $15.00"
+    }
+]

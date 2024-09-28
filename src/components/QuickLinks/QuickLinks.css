@@ -1,0 +1,11 @@
+.back-icon::before {
+	@apply content-[''] absolute w-[12px] h-[12px] border-black border-r-[2px] border-t-[2px] -rotate-[135deg] mr-[-12px];
+}
+
+.back-icon::after {
+	@apply content-[''] absolute  w-[16px] border-black bg-black border-[1px];
+}
+
+.nav-link::after {
+	@apply content-[''] right-10 absolute w-[12px] h-[12px] border-black border-t-[2px] border-l-[2px] rotate-[135deg];
+}

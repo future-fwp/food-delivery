@@ -1,0 +1,65 @@
+[
+    {
+        "src": "/image/restaurant-logo/7/800/450?t=1718574170",
+        "alt": "Richmond Station",
+        "title": "Richmond Station",
+        "time": "50 Mins",
+        "minOrder": "$25.00"
+    },
+    {
+        "src": "/image/restaurant-logo/8/800/450?t=1718574170",
+        "alt": "The Rec Room",
+        "title": "The Rec Room",
+        "time": "1 Hour",
+        "minOrder": "$20.00"
+    },
+    {
+        "src": "/image/restaurant-logo/21/800/450?t=1718574170",
+        "alt": "Alo",
+        "title": "Alo",
+        "time": "1 Hour",
+        "minOrder": "$30.00"
+    },
+    {
+        "src": "/image/restaurant-logo/23/800/450?t=1718574170",
+        "alt": "Edulis Restaurant",
+        "title": "Edulis Restaurant",
+        "time": "1 Hour",
+        "minOrder": "$30.00"
+    },
+    {
+        "src": "/image/restaurant-logo/66/800/450?t=1718574170",
+        "alt": "AG Inspired Cuisine",
+        "title": "AG Inspired Cuisine",
+        "time": "20 Mins",
+        "minOrder": "$20.00"
+    },
+    {
+        "src": "/image/restaurant-logo/152/800/450?t=1718574170",
+        "alt": "Adega Restaurante",
+        "title": "Adega Restaurante",
+        "time": "30 Mins",
+        "minOrder": "$20.00"
+    },
+    {
+        "src": "/image/restaurant-logo/153/800/450?t=1718574170",
+        "alt": "Byblos Downtown",
+        "title": "Byblos Downtown",
+        "time": "30 Mins",
+        "minOrder": "$15.00"
+    },
+    {
+        "src": "/image/restaurant-logo/154/800/450?t=1718574170",
+        "alt": "George's Restaurant",
+        "title": "George's Restaurant",
+        "time": "30 Mins",
+        "minOrder": "$5.00"
+    },
+    {
+        "src": "/image/restaurant-logo/155/800/450?t=1718574170",
+        "alt": "Constantine Toronto",
+        "title": "Constantine Toronto",
+        "time": "30 Mins",
+        "minOrder": "$15.00"
+    }
+]

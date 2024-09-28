@@ -1,0 +1,14 @@
+.title-how-it-works::before {
+	counter-increment: number;
+	content: "0" counter(number) ". ";
+	@apply text-red-700 text-[1.125rem] font-semibold mr-[0.5rem];
+}
+
+@media screen and (min-width: 1280px) {
+	.step::after {
+		@apply absolute content-[""] right-0 h-[1px] w-[50px] bg-red-700 top-[50px];
+	}
+	.step::before {
+		@apply content-[''] absolute top-[44px] right-[1px] h-[13px] w-[13px] border-r-[1px] border-red-700 border-b-[1px] -rotate-45;
+	}
+}

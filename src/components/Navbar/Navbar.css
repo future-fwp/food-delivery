@@ -1,0 +1,57 @@
+.navbar-container {
+	@apply flex justify-between gap-[20px] mx-auto px-4;
+}
+
+.navbar-left,
+.navbar-center,
+.navbar-right,
+.select-location,
+.login,
+.cart {
+	@apply flex items-center;
+}
+
+.header-main {
+	@apply py-6 mx-auto;
+}
+
+.size-6 {
+	@apply w-[1.25rem] h-[1.25rem];
+}
+
+.select-location {
+	@apply pl-[0.5rem] pr-[1.5rem] flex  relative;
+}
+
+.select-location:hover {
+	@apply text-[#d32b32] duration-500 ease-in-out;
+}
+
+.navbar-center {
+	@apply md:flex-grow md:flex hidden md:relative;
+}
+
+.search-icon {
+	@apply absolute  left-[1rem];
+}
+
+.login {
+	@apply px-[0.5rem];
+}
+
+.cart {
+	@apply ml-[1rem];
+}
+
+.cart-container {
+	@apply px-[0.5rem] flex;
+}
+.people-icon,
+.shopping-icon {
+	@apply mr-[0.125rem];
+}
+
+.login:hover,
+.cart:hover {
+	@apply text-[#d32b32] duration-500 ease-in-out;
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 500 281.25">
+  <g id="Restaurant-16x9" transform="translate(-778 -160)">
+    <rect id="Rectangle_3213" data-name="Rectangle 3213" width="500" height="281.25" transform="translate(778 160)" fill="#ebeaea"/>
+    <g id="Layer_1-2" transform="translate(928 213.77)">
+      <path id="Path_6724" data-name="Path 6724" d="M37.127,35.964A29.666,29.666,0,0,0,32.75,20.1a.91.91,0,0,0-1.682.481V37.852a2.462,2.462,0,0,1-2.146,2.489,2.365,2.365,0,0,1-2.592-2.352V15.264a2.749,2.749,0,0,0-1.579-2.489H24.7a2.829,2.829,0,0,0-4.034,2.575v22.52a2.462,2.462,0,0,1-2.146,2.489,2.365,2.365,0,0,1-2.592-2.352V15.658a2.866,2.866,0,0,0-4.188-2.54c-.017,0-.034.017-.051.034A2.652,2.652,0,0,0,10.264,15.5V37.886a2.462,2.462,0,0,1-2.146,2.489,2.365,2.365,0,0,1-2.592-2.352V21.494a.913.913,0,0,0-1.7-.463A29.944,29.944,0,0,0,0,36C0,47.91,6.4,57.849,14.9,60.1l-3.055,69.55a6.333,6.333,0,0,0,6.317,6.317h.257a6.333,6.333,0,0,0,6.317-6.317L21.679,60.2C30.433,58.226,37.11,48.151,37.11,36Z" transform="translate(0 8.074)" fill="#403835"/>
+      <path id="Path_6725" data-name="Path 6725" d="M123.3,77.423a5.208,5.208,0,0,0,.481-2.2V15.236a2.754,2.754,0,0,0-2.746-2.746h-3.124A14.006,14.006,0,0,0,103.94,26.462V66.575a14.015,14.015,0,0,0,10.814,13.594l-2.111,48.163a6.333,6.333,0,0,0,6.317,6.317h.257a6.333,6.333,0,0,0,6.316-6.317L123.3,77.406Z" transform="translate(74.467 8.067)" fill="#403835"/>
+      <path id="Path_6726" data-name="Path 6726" d="M136.565,84.72v28.338H30.06V84.72" transform="translate(21.536 59.816)" fill="none" stroke="#403835" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.45"/>
+      <path id="Path_6727" data-name="Path 6727" d="M30.06,32.452V1.23H136.565V32.452" transform="translate(21.536 0)" fill="none" stroke="#403835" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.45"/>
+      <circle id="Ellipse_31" data-name="Ellipse 31" cx="67.508" cy="67.508" r="67.508" transform="translate(37.333 19.544)" fill="none" stroke="#403835" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.23"/>
+      <path id="Path_6728" data-name="Path 6728" d="M73.525,33.86A29.815,29.815,0,1,1,43.71,63.675" transform="translate(31.316 23.378)" fill="none" stroke="#403835" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.23"/>
+      <circle id="Ellipse_34" data-name="Ellipse 34" cx="55" cy="55" r="55" transform="translate(50 32.23)" fill="rgba(64,56,53,0.1)"/>
+    </g>
+  </g>
+</svg>

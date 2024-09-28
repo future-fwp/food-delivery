@@ -1,0 +1,65 @@
+[
+    {
+        "src": "/image/restaurant-logo/107/800/450?t=1718574170",
+        "alt": "Lush Restaurant",
+        "title": "Lush Restaurant",
+        "time": "20 Mins",
+        "Min Order": "$22.00"
+    },
+    {
+        "src": "/image/restaurant-logo/108/800/450?t=1718574170",
+        "alt": "Gavas Restaurant",
+        "title": "Gavas Restaurant",
+        "time": "30 Mins",
+        "Min Order": "$20.00"
+    },
+    {
+        "src": "/image/restaurant-logo/109/800/450?t=1718574170",
+        "alt": "St Elmo's",
+        "title": "St Elmo's",
+        "time": "20 Mins",
+        "Min Order": "$20.00"
+    },
+    {
+        "src": "/image/restaurant-logo/110/800/450?t=1718574170",
+        "alt": "Organikks Ndizvo",
+        "title": "Organikks Ndizvo",
+        "time": "30 Mins",
+        "Min Order": "$20.00"
+    },
+    {
+        "src": "/image/restaurant-logo/111/800/450?t=1718574170",
+        "alt": "Coimbra Restaurant",
+        "title": "Coimbra Restaurant",
+        "time": "20 Mins",
+        "Min Order": "$20.00"
+    },
+    {
+        "src": "/image/restaurant-logo/112/800/450?t=1718574170",
+        "alt": "Spice Lounge",
+        "title": "Spice Lounge",
+        "time": "20 Mins",
+        "Min Order": "$22.00"
+    },
+    {
+        "src": "/image/restaurant-logo/136/800/450?t=1718574170",
+        "alt": "Pamahuswa Restaurant",
+        "title": "Pamahuswa Restaurant",
+        "time": "20 Mins",
+        "Min Order": "$5.00"
+    },
+    {
+        "src": "/image/restaurant-logo/137/800/450?t=1718574170",
+        "alt": "Garwe Restaurant",
+        "title": "Garwe Restaurant",
+        "time": "30 Mins",
+        "Min Order": "$5.00"
+    },
+    {
+        "src": "/image/restaurant-logo/138/800/450?t=1718574170",
+        "alt": "Pan African Restaurant",
+        "title": "Pan African Restaurant",
+        "time": "30 Mins",
+        "Min Order": "$5.00"
+    }
+]

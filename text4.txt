@@ -1,0 +1,65 @@
+const restaurants = [
+    {
+        src: "/image/restaurant-logo/116/800/450?t=1718574170",
+        alt: "Nova Scotia Liverpool",
+        title: "Nova Scotia Liverpool",
+        time: "20 Mins",
+        minOrder: "$18.00"
+    },
+    {
+        src: "/image/restaurant-logo/117/800/450?t=1718574170",
+        alt: "Côte Liverpool",
+        title: "Côte Liverpool",
+        time: "30 Mins",
+        minOrder: "$22.00"
+    },
+    {
+        src: "/image/restaurant-logo/118/800/450?t=1718574170",
+        alt: "Bacaro",
+        title: "Bacaro",
+        time: "20 Mins",
+        minOrder: "$25.00"
+    },
+    {
+        src: "/image/restaurant-logo/119/800/450?t=1718574170",
+        alt: "Shiraz Palace",
+        title: "Shiraz Palace",
+        time: "30 Mins",
+        minOrder: "$26.00"
+    },
+    {
+        src: "/image/restaurant-logo/126/800/450?t=1718574170",
+        alt: "San Carlo",
+        title: "San Carlo",
+        time: "20 Mins",
+        minOrder: "$26.00"
+    },
+    {
+        src: "/image/restaurant-logo/130/800/450?t=1718574170",
+        alt: "The Restaurant Bar",
+        title: "The Restaurant Bar",
+        time: "20 Mins",
+        minOrder: "$19.00"
+    },
+    {
+        src: "/image/restaurant-logo/131/800/450?t=1718574170",
+        alt: "Cowshed Liverpool",
+        title: "Cowshed Liverpool",
+        time: "30 Mins",
+        minOrder: "$18.00"
+    },
+    {
+        src: "/image/restaurant-logo/132/800/450?t=1718574170",
+        alt: "Mowgli Street Food",
+        title: "Mowgli Street Food",
+        time: "30 Mins",
+        minOrder: "$18.00"
+    },
+    {
+        src: "/image/restaurant-logo/133/800/450?t=1718574170",
+        alt: "Maray Bold Street",
+        title: "Maray Bold Street",
+        time: "40 Mins",
+        minOrder: "$18.00"
+    }
+];

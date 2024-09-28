@@ -1,0 +1,26 @@
+.image-card::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: transparent linear-gradient(179deg, #eeeeee00 0%, #0000008a 65%, #000000 100%) 0% 0% no-repeat;
+	height: 155px;
+	pointer-events: none;
+	transition: 0.25s ease-in-out all;
+	border-radius: 10px;
+}
+
+@media screen and (max-width: 768px) {
+	.shadow-box {
+		box-shadow: 0px 2px 10px #0000001a;
+	}
+}
+
+.previous-icon::after {
+	@apply content-['<'] text-[1rem] leading-10 flex justify-center items-center;
+}
+
+.next-icon::after {
+	@apply content-['>']  text-[1rem] leading-10 flex justify-center items-center;
+}
